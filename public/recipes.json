@@ -1,105 +1,103 @@
-{
-  "recipes": [
-    {
-      "recipe_img": "https://example.com/images/chicken_stir_fry.jpg",
-      "recipe_id": "R001",
-      "recipe_name": "Chicken Stir Fry",
-      "short_description": "A quick and easy chicken stir fry with vegetables.",
-      "ingredients": [
-        "550 g chicken breast",
-        "120 ml soy sauce",
-        "1 bell pepper",
-        "200 g broccoli",
-        "2 cloves garlic",
-        "50 g onion"
-      ],
-      "preparing_time": "30 min",
-      "calories": "320 calories"
-    },
-    {
-      "recipe_img": "https://example.com/images/spaghetti_bolognese.jpg",
-      "recipe_id": "R002",
-      "recipe_name": "Spaghetti Bolognese",
-      "short_description": "A classic Italian pasta dish with rich tomato sauce and minced meat.",
-      "ingredients": [
-        "300 g minced beef",
-        "200 g spaghetti",
-        "400 g canned tomatoes",
-        "1 onion",
-        "2 cloves garlic",
-        "50 ml olive oil",
-        "50 g grated parmesan"
-      ],
-      "preparing_time": "40 min",
-      "calories": "450 calories"
-    },
-    {
-      "recipe_img": "https://example.com/images/vegetable_curry.jpg",
-      "recipe_id": "R003",
-      "recipe_name": "Vegetable Curry",
-      "short_description": "A rich and flavorful vegetable curry with coconut milk.",
-      "ingredients": [
-        "200 g cauliflower",
-        "150 g potatoes",
-        "100 g carrots",
-        "200 ml coconut milk",
-        "1 onion",
-        "2 cloves garlic",
-        "2 tbsp curry powder"
-      ],
-      "preparing_time": "35 min",
-      "calories": "280 calories"
-    },
-    {
-      "recipe_img": "https://example.com/images/beef_tacos.jpg",
-      "recipe_id": "R004",
-      "recipe_name": "Beef Tacos",
-      "short_description": "Mexican-style beef tacos with fresh salsa and guacamole.",
-      "ingredients": [
-        "300 g ground beef",
-        "8 taco shells",
-        "1 avocado",
-        "100 g tomatoes",
-        "50 g lettuce",
-        "30 g cheese",
-        "1 lime"
-      ],
-      "preparing_time": "25 min",
-      "calories": "380 calories"
-    },
-    {
-      "recipe_img": "https://example.com/images/salmon_salad.jpg",
-      "recipe_id": "R005",
-      "recipe_name": "Salmon Salad",
-      "short_description": "A light and healthy salmon salad with mixed greens and vinaigrette.",
-      "ingredients": [
-        "200 g salmon fillet",
-        "100 g mixed greens",
-        "50 g cherry tomatoes",
-        "1 cucumber",
-        "30 ml olive oil",
-        "1 lemon",
-        "10 g capers"
-      ],
-      "preparing_time": "20 min",
-      "calories": "250 calories"
-    },
-    {
-      "recipe_img": "https://example.com/images/pancakes.jpg",
-      "recipe_id": "R006",
-      "recipe_name": "Fluffy Pancakes",
-      "short_description": "Delicious, fluffy pancakes perfect for breakfast or brunch.",
-      "ingredients": [
-        "200 g flour",
-        "250 ml milk",
-        "2 eggs",
-        "50 g butter",
-        "2 tbsp sugar",
-        "1 tsp baking powder",
-        "Pinch of salt"
-      ],
-      "preparing_time": "20 min",
-      "calories": "350 calories"
-    }
-  ]
-}
+[
+  {
+    "recipe_img": "https://www.budgetbytes.com/wp-content/uploads/2024/01/Chicken-Stir-Fry-V1.jpeg",
+    "recipe_id": "R001",
+    "recipe_name": "Chicken Stir Fry",
+    "short_description": "A quick and easy chicken stir fry with vegetables.",
+    "ingredients": [
+      "550 g chicken breast",
+      "120 ml soy sauce",
+      "1 bell pepper",
+      "200 g broccoli",
+      "2 cloves garlic",
+      "50 g onion"
+    ],
+    "preparing_time": "30 min",
+    "calories": "320 calories"
+  },
+  {
+    "recipe_img": "https://images.eatsmarter.de/sites/default/files/styles/max_size/public/spaghetti-bolognese-original-59303.jpg",
+    "recipe_id": "R002",
+    "recipe_name": "Spaghetti Bolognese",
+    "short_description": "A classic Italian pasta dish with rich tomato sauce and minced meat.",
+    "ingredients": [
+      "300 g minced beef",
+      "200 g spaghetti",
+      "400 g canned tomatoes",
+      "1 onion",
+      "2 cloves garlic",
+      "50 ml olive oil",
+      "50 g grated parmesan"
+    ],
+    "preparing_time": "40 min",
+    "calories": "450 calories"
+  },
+  {
+    "recipe_img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2023/07/vegetable-curry-recipe.jpg",
+    "recipe_id": "R003",
+    "recipe_name": "Vegetable Curry",
+    "short_description": "A rich and flavorful vegetable curry with coconut milk.",
+    "ingredients": [
+      "200 g cauliflower",
+      "150 g potatoes",
+      "100 g carrots",
+      "200 ml coconut milk",
+      "1 onion",
+      "2 cloves garlic",
+      "2 tbsp curry powder"
+    ],
+    "preparing_time": "35 min",
+    "calories": "280 calories"
+  },
+  {
+    "recipe_img": "https://loveandgoodstuff.com/wp-content/uploads/2020/08/classic-ground-beef-tacos-1200x1200.jpg",
+    "recipe_id": "R004",
+    "recipe_name": "Beef Tacos",
+    "short_description": "Mexican-style beef tacos with fresh salsa and guacamole.",
+    "ingredients": [
+      "300 g ground beef",
+      "8 taco shells",
+      "1 avocado",
+      "100 g tomatoes",
+      "50 g lettuce",
+      "30 g cheese",
+      "1 lime"
+    ],
+    "preparing_time": "25 min",
+    "calories": "380 calories"
+  },
+  {
+    "recipe_img": "https://www.paleorunningmomma.com/wp-content/uploads/2022/08/salmon-cobb-salad-3-scaled.jpg",
+    "recipe_id": "R005",
+    "recipe_name": "Salmon Salad",
+    "short_description": "A light and healthy salmon salad with mixed greens and vinaigrette.",
+    "ingredients": [
+      "200 g salmon fillet",
+      "100 g mixed greens",
+      "50 g cherry tomatoes",
+      "1 cucumber",
+      "30 ml olive oil",
+      "1 lemon",
+      "10 g capers"
+    ],
+    "preparing_time": "20 min",
+    "calories": "250 calories"
+  },
+  {
+    "recipe_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS57Jbqd3GNXBN4Gc54VGUpwi_0sCB9nQtwUA&s",
+    "recipe_id": "R006",
+    "recipe_name": "Fluffy Pancakes",
+    "short_description": "Delicious, fluffy pancakes perfect for breakfast or brunch.",
+    "ingredients": [
+      "200 g flour",
+      "250 ml milk",
+      "2 eggs",
+      "50 g butter",
+      "2 tbsp sugar",
+      "1 tsp baking powder",
+      "Pinch of salt"
+    ],
+    "preparing_time": "20 min",
+    "calories": "350 calories"
+  }
+]

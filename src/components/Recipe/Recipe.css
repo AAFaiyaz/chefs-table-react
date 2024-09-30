@@ -1,0 +1,16 @@
+.Recipe {
+  width: 20%;
+  padding: 24px 24px 0 24px;
+  border: 1px solid grey;
+  margin: 24px;
+  border-radius: 4%;
+}
+.recipe-btn {
+  padding: 10px;
+  background-color: #0be58a;
+  border-radius: 4%;
+}
+img {
+  width: 331px;
+  height: 200px;
+}
